@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "./longest_substring_2.go"
+            "program": "./4_merge_two_sorted_lists_2.go"
         }
     ]
 }
