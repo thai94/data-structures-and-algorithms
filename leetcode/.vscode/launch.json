@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "./10_container_with_most_water.go"
+            "program": "./17_simplify_path.go"
         }
     ]
 }
