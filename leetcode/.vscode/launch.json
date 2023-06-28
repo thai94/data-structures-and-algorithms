@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "./17_simplify_path.go"
+            "program": "./20_double_linked_list.go"
         }
     ]
 }
